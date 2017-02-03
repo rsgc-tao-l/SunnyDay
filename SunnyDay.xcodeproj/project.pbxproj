@@ -6,10 +6,6 @@
 	objectVersion = 46;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		818AEC101E44B38C00095FB1 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 818AEC0F1E44B38C00095FB1 /* main.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		818AEC0A1E44B38C00095FB1 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -24,7 +20,7 @@
 
 /* Begin PBXFileReference section */
 		818AEC0C1E44B38C00095FB1 /* SunnyDay */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SunnyDay; sourceTree = BUILT_PRODUCTS_DIR; };
-		818AEC0F1E44B38C00095FB1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		818AEC161E44B3B000095FB1 /* SunnyDay.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SunnyDay.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +53,7 @@
 		818AEC0E1E44B38C00095FB1 /* SunnyDay */ = {
 			isa = PBXGroup;
 			children = (
-				818AEC0F1E44B38C00095FB1 /* main.swift */,
+				818AEC161E44B3B000095FB1 /* SunnyDay.playground */,
 			);
 			path = SunnyDay;
 			sourceTree = "<group>";
@@ -121,7 +117,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				818AEC101E44B38C00095FB1 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
